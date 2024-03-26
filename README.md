@@ -5,7 +5,7 @@
   
 - 😀 Eu sou <strong>Henrique Maciel</strong> de <strong>Pernambuco</strong>
 
-- 🔭 <strong>Estudando Javascript</strong>
+- 🔭 <strong>Estudando Javascript e HTML</strong>
 
 - 🌱 <strong>Estudante do Senac Mediotec (Desenvolvimento de Sistema)</strong>
 
