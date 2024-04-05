@@ -22,3 +22,5 @@
 **Contador De Visitas**
 
 ![VisitorCount](https://profile-counter.glitch.me/{Heenriquemac11}/count.svg)
+
+<img src="https://giffiles.alphacoders.com/493/49343.gif" alt="Computer man" style="width:480px;height:300px;">
