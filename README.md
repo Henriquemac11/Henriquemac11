@@ -1,26 +1,35 @@
+<div align="center">
+  <img src="https://i.pinimg.com/736x/7c/ef/87/7cef87c082d6d1586d187b0693925414.jpg" alt="Banner" width="800" height="250">
+   <h1 style="font-size: 50px; font-weight: 900; text-transform: uppercase; letter-spacing: 20px;"><strong>@Henriquemac11<strong></h1>
+</div>
 
-<p align="center"><b>Sobre mim</b></p>
-
-<p align="left">
+<div style="width: 50%; margin: 0 auto; text-align: left;">
+  <h2 style="text-align: center;">Welcome to my profile!</h2>
+  <p><strong>My name is Henrique and learn more about me here.👇</strong></p>
   
-- 😀 Eu sou <strong>Henrique Maciel</strong> de <strong>Pernambuco</strong>
+  <blockquote>
+    📖 I'm studying <strong>English<strong/>, I'm a beginner, but I'm developing <br>
+    💬 About me: <strong>I'm a hard worker, I'm passionate about coffee and the gym, I want to be a successful programmer 😃</strong>  <br>
+    💼 internship: </strong>strong>Working in a health food store and learning how to deal with customers and improve communication skills🗣  <strong/>  <br>
+    📚 Study: </script>Studying basic web development with JavaScript, HTML, CSS, Java and SQL. I'm a beginner in the area but I want to improve and work <strong/>  <br>
+    🚀 About my Startup: <strong>ChromaSolar🌞</strong>  <br>
+    🗣️ Languages: <strong>Portuguese and Basic english </strong>  <br>
+    💻 Programming languages developed:
+    <div/> 
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"> 
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"> 
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+     
+  
+  </blockquote>
 
-- 🔭 <strong>Estudando Javascript e suas ferramentas.</strong>
+<br><br>
 
-- 🌱 <strong>Estudante do 1 ano do Senac Mediotec (Desenvolvimento de Sistema)</strong>
+<div align="center">
 
-- ✍️ <strong>Sempre á procura de melhorar<strong>
+  <a href="https://www.instagram.com/heenriquemaciel/" alt="Instagram">
+    <img src="https://logoyab.com/wp-content/uploads/2023/12/%D9%84%D9%88%DA%AF%D9%88-%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%DA%AF%D8%B1%D8%A7%D9%85-1030x1030.png" width="24" height="24" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+<div/>
 
-- 💬 Curiosidades: <strong>Amo café☕ e Meu maior hobby é treinar</strong>
-</p>
-<p align="center">📫<b>Meu contato</br></p>
-
-<p align="center">
-<a href = "https://www.instagram.com/Heenriquemaciel" target="_blank"><img align="center" src="https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
-
-*************
-**Contador De Visitas**
-
-![VisitorCount](https://profile-counter.glitch.me/{Heenriquemac11}/count.svg)
-
-<img src="https://giffiles.alphacoders.com/493/49343.gif" alt="Computer man" style="width:480px;height:300px;">
