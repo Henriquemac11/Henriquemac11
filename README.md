@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/7c/ef/87/7cef87c082d6d1586d187b0693925414.jpg" alt="Banner" width="800" height="250">
+  <img src="https://i.pinimg.com/originals/fa/f1/5e/faf15ef3b7d7a37cc38d7cf1d655385a.gif" alt="Banner" width="800" height="250">
    <h1 style="font-size: 50px; font-weight: 900; text-transform: uppercase; letter-spacing: 20px;"><strong>@Henriquemac11<strong></h1>
 </div>
 
