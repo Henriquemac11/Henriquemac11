@@ -7,21 +7,18 @@
   <h2 style="text-align: center;">Welcome to my profile!</h2>
   <p><strong>My name is Henrique and learn more about me here.👇</strong></p>
   
-  <blockquote>
-    📖 I'm studying <strong>English<strong/>, I'm a beginner, but I'm developing <br>
-    💬 About me: <strong>I'm a hard worker, I'm passionate about coffee and the gym, I want to be a successful programmer 😃</strong>  <br>
-    💼 internship: </strong>strong>Working in a health food store and learning how to deal with customers and improve communication skills🗣  <strong/>  <br>
-    📚 Study: </script>Studying basic web development with JavaScript, HTML, CSS, Java and SQL. I'm a beginner in the area but I want to improve and work <strong/>  <br>
-    🚀 About my Startup: <strong>ChromaSolar🌞</strong>  <br>
-    🗣️ Languages: <strong>Portuguese and Basic english </strong>  <br>
-    💻 Programming languages developed:
-    <div/> 
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"> 
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"> 
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-     
-  
-  </blockquote>
+<blockquote>
+  <h3>👋 About Me</h3>
+  <ul>
+    <li>📖 I'm studying <strong>English</strong> — beginner level, but improving every day!</li>
+    <li>💬 I'm a <strong>hard-working guy</strong>, passionate about <strong>coffee ☕, the gym 🏋️</strong>, and I want to become a <strong>successful programmer 😃</strong>.</li>
+    <li>💼 <strong>Internship:</strong> I work at a health food store — learning how to deal with customers and improve my communication skills 🗣️</li>
+    <li>📚 <strong>Studies:</strong> Currently learning basic web development — JavaScript, HTML, CSS, C, and SQL. I'm a beginner, but very motivated to grow!</li>
+    <li>🚀 <strong>My Startup:</strong> <strong>ChromaSolar 🌞</strong> — innovative solutions in sustainability!</li>
+    <li>🗣️ <strong>Languages:</strong> Native Portuguese 🇧🇷 | Basic English 🇺🇸</li>
+    <li>💻 <strong>Programming Languages:</strong> I'm currently practicing C, Javascript, HTML/CSS, and SQL</li>
+  </ul>
+</blockquote>
 
 <br><br>
 
