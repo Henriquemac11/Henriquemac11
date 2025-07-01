@@ -13,7 +13,6 @@
     <li>📖 I'm studying <strong>English</strong> — beginner level, but improving every day!</li>
     <li>💬 I'm a <strong>hard-working guy</strong>, passionate about <strong>coffee ☕, the gym 🏋️</strong>, and I want to become a <strong>successful programmer 😃</strong>.</li>
     <li>💼 <strong>Internship:</strong> I work at a health food store — learning how to deal with customers and improve my communication skills 🗣️</li>
-    <li>📚 <strong>Studies:</strong> Currently learning basic web development — JavaScript, HTML, CSS, C, and SQL. I'm a beginner, but very motivated to grow!</li>
     <li>🚀 <strong>My Startup:</strong> <strong>ChromaSolar 🌞</strong> — innovative solutions in sustainability!</li>
     <li>🗣️ <strong>Languages:</strong> Native Portuguese 🇧🇷 | Basic English 🇺🇸</li>
     <li>💻 <strong>Programming Languages:</strong> I'm currently practicing C, Javascript, HTML/CSS, and SQL</li>
