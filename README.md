@@ -15,7 +15,7 @@
     <li>💼 <strong>Internship:</strong> I work at a health food store — learning how to deal with customers and improve my communication skills. </li>
     <li>🚀 <strong>My Startup:</strong> <strong>ChromaSolar 🌞</strong> — innovative solutions in sustainability!</li>
     <li>🗣️ <strong>Languages:</strong> Native Portuguese 🇧🇷 | Basic English 🇺🇸</li>
-    <li>💻 <strong>Programming Languages:</strong> I'm currently practicing C, Javascript, HTML/CSS, and SQL</li>
+    <li>💻 <strong>Programming Languages:</strong> I'm currently practicing C, Java, SQL, Javascript and HTML/CSS</li>
   </ul>
 </blockquote>
 
