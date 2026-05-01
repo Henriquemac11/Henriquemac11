@@ -4,7 +4,7 @@
 
 # Henrique Maciel
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer+in+Progress;Building+Projects+Every+Day;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=800020&center=true&vCenter=true&width=700&lines=Software+Developer+in+Progress;Building+Projects+Every+Day;Always+Learning+New+Technologies" />
 
 <p>
 Transforming ideas into code.
